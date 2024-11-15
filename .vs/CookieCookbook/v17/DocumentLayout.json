@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Jim\\Documents\\Dev\\Projects\\C#\\CookieCookbook\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1160396E-42B6-4EBB-9ABA-E0559CC50E60}|CookieCookbook\\CookieCookbook.csproj|c:\\users\\jim\\documents\\dev\\projects\\c#\\cookiecookbook\\cookiecookbook\\recipes\\recipes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1160396E-42B6-4EBB-9ABA-E0559CC50E60}|CookieCookbook\\CookieCookbook.csproj|solutionrelative:cookiecookbook\\recipes\\recipes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1160396E-42B6-4EBB-9ABA-E0559CC50E60}|CookieCookbook\\CookieCookbook.csproj|c:\\users\\jim\\documents\\dev\\projects\\c#\\cookiecookbook\\cookiecookbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1160396E-42B6-4EBB-9ABA-E0559CC50E60}|CookieCookbook\\CookieCookbook.csproj|solutionrelative:cookiecookbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,21 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Recipes.cs",
+              "DocumentMoniker": "C:\\Users\\Jim\\Documents\\Dev\\Projects\\C#\\CookieCookbook\\CookieCookbook\\Recipes\\Recipes.cs",
+              "RelativeDocumentMoniker": "CookieCookbook\\Recipes\\Recipes.cs",
+              "ToolTip": "C:\\Users\\Jim\\Documents\\Dev\\Projects\\C#\\CookieCookbook\\CookieCookbook\\Recipes\\Recipes.cs",
+              "RelativeToolTip": "CookieCookbook\\Recipes\\Recipes.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T23:47:57.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Jim\\Documents\\Dev\\Projects\\C#\\CookieCookbook\\CookieCookbook\\Program.cs",
               "RelativeDocumentMoniker": "CookieCookbook\\Program.cs",
               "ToolTip": "C:\\Users\\Jim\\Documents\\Dev\\Projects\\C#\\CookieCookbook\\CookieCookbook\\Program.cs",
               "RelativeToolTip": "CookieCookbook\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T03:31:06.555Z",
               "EditorCaption": ""

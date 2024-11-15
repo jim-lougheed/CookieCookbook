@@ -27,7 +27,7 @@ public class CookiesRecipesApp
             _recipesUserInteraction.ShowMessage(recipes.ToString());
         } else
         {
-            _recipesUserInteraction.ShowMessage("No ingredients have been selected. " +)
+            _recipesUserInteraction.ShowMessage("No ingredients have been selected. " +
                 "Recipe will not be saved.");
         }
         _recipesUserInteraction.Exit();
