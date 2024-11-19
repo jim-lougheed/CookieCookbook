@@ -2,7 +2,7 @@
 using CookieCookbook.Recipes;
 using static CookieCookbook.Recipes.Recipe;
 
-var cookiesRecipesApp = new CookiesRecipesApp(new RecipesRepository(), new RecipesConsoleUserInteraction());
+var cookiesRecipesApp = new CookiesRecipesApp(new RecipesRepository(), new RecipesConsoleUserInteraction(new IngredientsRegister()));
 cookiesRecipesApp.Run("recipes.txt");
 
 public class CookiesRecipesApp
@@ -19,7 +19,7 @@ public class CookiesRecipesApp
     {
         var allRecipes = _recipesRepository.Read(filePath);
         _recipesUserInteraction.PrintExistingRecipes(allRecipes);
-        //_recipesUserInteraction.PromptToCreateRecipe();
+        _recipesUserInteraction.PromptToCreateRecipe();
         //var ingredients = _recipesUserInteraction.ReadIngredientsFromUser();
         //if (ingredients.Count > 0)
         //{
@@ -42,10 +42,31 @@ public interface IRecipesUserInteraction
     void ShowMessage(string message);
     void Exit();
     void PrintExistingRecipes(IEnumerable<Recipe> allRecipes);
+    void PromptToCreateRecipe();
+}
+
+public class IngredientsRegister
+{
+    public IEnumerable<Ingredient> All { get; } = new List<Ingredient> {
+        new WheatFlour(),
+        new CoconutFlour(),
+        new Butter(),
+        new Chocolate(),
+        new Sugar(),
+        new Cardamom(),
+        new Cinnamon(),
+        new CocoaPowder()
+        };
 }
 
 public class RecipesConsoleUserInteraction : IRecipesUserInteraction
 {
+    private readonly IngredientsRegister _ingredientsRegister;
+    public RecipesConsoleUserInteraction(IngredientsRegister ingredientsRegister)
+    {
+        _ingredientsRegister = ingredientsRegister;
+    }
+
     public void ShowMessage(string message)
     {
         Console.WriteLine(message);
@@ -70,6 +91,16 @@ public class RecipesConsoleUserInteraction : IRecipesUserInteraction
                 Console.WriteLine();
                 ++counter;
             }
+        }
+    }
+
+    public void PromptToCreateRecipe()
+    {
+        Console.WriteLine("Create a new cookie recipe! " + 
+            "Available ingredients are:");
+        foreach (var ingredient in _ingredientsRegister.All)
+        {
+            Console.WriteLine(ingredient);
         }
     }
 }
