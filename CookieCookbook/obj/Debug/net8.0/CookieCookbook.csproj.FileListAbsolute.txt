@@ -1,0 +1,15 @@
+C:\Users\Jim\Documents\Dev\Projects\C#\CookieCookbook\CookieCookbook\bin\Debug\net8.0\CookieCookbook.exe
+C:\Users\Jim\Documents\Dev\Projects\C#\CookieCookbook\CookieCookbook\bin\Debug\net8.0\CookieCookbook.deps.json
+C:\Users\Jim\Documents\Dev\Projects\C#\CookieCookbook\CookieCookbook\bin\Debug\net8.0\CookieCookbook.runtimeconfig.json
+C:\Users\Jim\Documents\Dev\Projects\C#\CookieCookbook\CookieCookbook\bin\Debug\net8.0\CookieCookbook.dll
+C:\Users\Jim\Documents\Dev\Projects\C#\CookieCookbook\CookieCookbook\bin\Debug\net8.0\CookieCookbook.pdb
+C:\Users\Jim\Documents\Dev\Projects\C#\CookieCookbook\CookieCookbook\obj\Debug\net8.0\CookieCookbook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jim\Documents\Dev\Projects\C#\CookieCookbook\CookieCookbook\obj\Debug\net8.0\CookieCookbook.AssemblyInfoInputs.cache
+C:\Users\Jim\Documents\Dev\Projects\C#\CookieCookbook\CookieCookbook\obj\Debug\net8.0\CookieCookbook.AssemblyInfo.cs
+C:\Users\Jim\Documents\Dev\Projects\C#\CookieCookbook\CookieCookbook\obj\Debug\net8.0\CookieCookbook.csproj.CoreCompileInputs.cache
+C:\Users\Jim\Documents\Dev\Projects\C#\CookieCookbook\CookieCookbook\obj\Debug\net8.0\CookieCookbook.sourcelink.json
+C:\Users\Jim\Documents\Dev\Projects\C#\CookieCookbook\CookieCookbook\obj\Debug\net8.0\CookieCookbook.dll
+C:\Users\Jim\Documents\Dev\Projects\C#\CookieCookbook\CookieCookbook\obj\Debug\net8.0\refint\CookieCookbook.dll
+C:\Users\Jim\Documents\Dev\Projects\C#\CookieCookbook\CookieCookbook\obj\Debug\net8.0\CookieCookbook.pdb
+C:\Users\Jim\Documents\Dev\Projects\C#\CookieCookbook\CookieCookbook\obj\Debug\net8.0\CookieCookbook.genruntimeconfig.cache
+C:\Users\Jim\Documents\Dev\Projects\C#\CookieCookbook\CookieCookbook\obj\Debug\net8.0\ref\CookieCookbook.dll

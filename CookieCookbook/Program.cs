@@ -19,20 +19,20 @@ public class CookiesRecipesApp
     {
         var allRecipes = _recipesRepository.Read(filePath);
         _recipesUserInteraction.PrintExistingRecipes(allRecipes);
-        _recipesUserInteraction.PromptToCreateRecipe();
-        var ingredients = _recipesUserInteraction.ReadIngredientsFromUser();
-        if (ingredients.Count > 0)
-        {
-            var recipes = new Recipe(ingredients);
-            allRecipes.Add(recipes);
-            _recipesRepository.Write(filePath, allRecipes);
-            _recipesUserInteraction.ShowMessage("Recipe added: ");
-            _recipesUserInteraction.ShowMessage(recipes.ToString());
-        } else
-        {
-            _recipesUserInteraction.ShowMessage("No ingredients have been selected. " +
-                "Recipe will not be saved.");
-        }
+        //_recipesUserInteraction.PromptToCreateRecipe();
+        //var ingredients = _recipesUserInteraction.ReadIngredientsFromUser();
+        //if (ingredients.Count > 0)
+        //{
+        //    var recipes = new Recipe(ingredients);
+        //    allRecipes.Add(recipes);
+        //    _recipesRepository.Write(filePath, allRecipes);
+        //    _recipesUserInteraction.ShowMessage("Recipe added: ");
+        //    _recipesUserInteraction.ShowMessage(recipes.ToString());
+        //} else
+        //{
+        //    _recipesUserInteraction.ShowMessage("No ingredients have been selected. " +
+        //        "Recipe will not be saved.");
+        //}
         _recipesUserInteraction.Exit();
     }
 }
