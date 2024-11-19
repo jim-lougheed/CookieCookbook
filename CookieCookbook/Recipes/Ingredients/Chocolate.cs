@@ -2,7 +2,7 @@
 {
     public partial class Recipe
     {
-        public abstract class Chocolate : Ingredient
+        public class Chocolate : Ingredient
         {
             public override int ID => 4;
             public override string Name => "Chocolate";
