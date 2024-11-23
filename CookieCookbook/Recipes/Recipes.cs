@@ -1,21 +1,21 @@
-﻿namespace CookieCookbook.Recipes
-{
-    public partial class Recipe
-    {
-        public IEnumerable<Ingredient> Ingredients { get; }
-        public Recipe(IEnumerable<Ingredient> ingredients)
-        {
-            Ingredients = ingredients;
-        }
+﻿namespace CookieCookbook.Recipes;
 
-        public override string ToString()
+
+public partial class Recipe
+{
+    public IEnumerable<Ingredient> Ingredients { get; }
+    public Recipe(IEnumerable<Ingredient> ingredients)
+    {
+        Ingredients = ingredients;
+    }
+
+    public override string ToString()
+    {
+        var steps = new List<string>();
+        foreach (var ingredient in Ingredients)
         {
-            var steps = new List<string>();
-            foreach (var ingredient in Ingredients)
-            {
-                steps.Add($"{ingredient.Name}. {ingredient.PreparationInstructions}");
-            }
-            return string.Join(Environment.NewLine, steps);
+            steps.Add($"{ingredient.Name}. {ingredient.PreparationInstructions}");
         }
+        return string.Join(Environment.NewLine, steps);
     }
 }

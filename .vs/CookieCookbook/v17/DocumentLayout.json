@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Jim\\Documents\\Dev\\Projects\\C#\\CookieCookbook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1160396E-42B6-4EBB-9ABA-E0559CC50E60}|CookieCookbook\\CookieCookbook.csproj|c:\\users\\jim\\documents\\dev\\projects\\c#\\cookiecookbook\\cookiecookbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1160396E-42B6-4EBB-9ABA-E0559CC50E60}|CookieCookbook\\CookieCookbook.csproj|solutionrelative:cookiecookbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1160396E-42B6-4EBB-9ABA-E0559CC50E60}|CookieCookbook\\CookieCookbook.csproj|c:\\users\\jim\\documents\\dev\\projects\\c#\\cookiecookbook\\cookiecookbook\\dataaccess\\istringsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1160396E-42B6-4EBB-9ABA-E0559CC50E60}|CookieCookbook\\CookieCookbook.csproj|solutionrelative:cookiecookbook\\dataaccess\\istringsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1160396E-42B6-4EBB-9ABA-E0559CC50E60}|CookieCookbook\\CookieCookbook.csproj|c:\\users\\jim\\documents\\dev\\projects\\c#\\cookiecookbook\\cookiecookbook\\recipes\\ingredients\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1160396E-42B6-4EBB-9ABA-E0559CC50E60}|CookieCookbook\\CookieCookbook.csproj|solutionrelative:cookiecookbook\\recipes\\ingredients\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1160396E-42B6-4EBB-9ABA-E0559CC50E60}|CookieCookbook\\CookieCookbook.csproj|c:\\users\\jim\\documents\\dev\\projects\\c#\\cookiecookbook\\cookiecookbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1160396E-42B6-4EBB-9ABA-E0559CC50E60}|CookieCookbook\\CookieCookbook.csproj|solutionrelative:cookiecookbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1160396E-42B6-4EBB-9ABA-E0559CC50E60}|CookieCookbook\\CookieCookbook.csproj|c:\\users\\jim\\documents\\dev\\projects\\c#\\cookiecookbook\\cookiecookbook\\dataaccess\\stringsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1160396E-42B6-4EBB-9ABA-E0559CC50E60}|CookieCookbook\\CookieCookbook.csproj|solutionrelative:cookiecookbook\\dataaccess\\stringsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1160396E-42B6-4EBB-9ABA-E0559CC50E60}|CookieCookbook\\CookieCookbook.csproj|c:\\users\\jim\\documents\\dev\\projects\\c#\\cookiecookbook\\cookiecookbook\\app\\cookiesrecipeapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1160396E-42B6-4EBB-9ABA-E0559CC50E60}|CookieCookbook\\CookieCookbook.csproj|solutionrelative:cookiecookbook\\app\\cookiesrecipeapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1160396E-42B6-4EBB-9ABA-E0559CC50E60}|CookieCookbook\\CookieCookbook.csproj|c:\\users\\jim\\documents\\dev\\projects\\c#\\cookiecookbook\\cookiecookbook\\recipes\\recipes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1160396E-42B6-4EBB-9ABA-E0559CC50E60}|CookieCookbook\\CookieCookbook.csproj|solutionrelative:cookiecookbook\\recipes\\recipes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1160396E-42B6-4EBB-9ABA-E0559CC50E60}|CookieCookbook\\CookieCookbook.csproj|c:\\users\\jim\\documents\\dev\\projects\\c#\\cookiecookbook\\cookiecookbook\\filestorage\\filestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1160396E-42B6-4EBB-9ABA-E0559CC50E60}|CookieCookbook\\CookieCookbook.csproj|solutionrelative:cookiecookbook\\filestorage\\filestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1160396E-42B6-4EBB-9ABA-E0559CC50E60}|CookieCookbook\\CookieCookbook.csproj|c:\\users\\jim\\documents\\dev\\projects\\c#\\cookiecookbook\\cookiecookbook\\filestorage\\fileformatextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1160396E-42B6-4EBB-9ABA-E0559CC50E60}|CookieCookbook\\CookieCookbook.csproj|solutionrelative:cookiecookbook\\filestorage\\fileformatextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +42,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StringsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jim\\Documents\\Dev\\Projects\\C#\\CookieCookbook\\CookieCookbook\\DataAccess\\StringsRepository.cs",
+              "RelativeDocumentMoniker": "CookieCookbook\\DataAccess\\StringsRepository.cs",
+              "ToolTip": "C:\\Users\\Jim\\Documents\\Dev\\Projects\\C#\\CookieCookbook\\CookieCookbook\\DataAccess\\StringsRepository.cs",
+              "RelativeToolTip": "CookieCookbook\\DataAccess\\StringsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T04:02:58.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CookiesRecipeApp.cs",
+              "DocumentMoniker": "C:\\Users\\Jim\\Documents\\Dev\\Projects\\C#\\CookieCookbook\\CookieCookbook\\App\\CookiesRecipeApp.cs",
+              "RelativeDocumentMoniker": "CookieCookbook\\App\\CookiesRecipeApp.cs",
+              "ToolTip": "C:\\Users\\Jim\\Documents\\Dev\\Projects\\C#\\CookieCookbook\\CookieCookbook\\App\\CookiesRecipeApp.cs",
+              "RelativeToolTip": "CookieCookbook\\App\\CookiesRecipeApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T03:57:10.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Recipes.cs",
+              "DocumentMoniker": "C:\\Users\\Jim\\Documents\\Dev\\Projects\\C#\\CookieCookbook\\CookieCookbook\\Recipes\\Recipes.cs",
+              "RelativeDocumentMoniker": "CookieCookbook\\Recipes\\Recipes.cs",
+              "ToolTip": "C:\\Users\\Jim\\Documents\\Dev\\Projects\\C#\\CookieCookbook\\CookieCookbook\\Recipes\\Recipes.cs",
+              "RelativeToolTip": "CookieCookbook\\Recipes\\Recipes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T03:50:36.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileFormatExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Jim\\Documents\\Dev\\Projects\\C#\\CookieCookbook\\CookieCookbook\\FileStorage\\FileFormatExtensions.cs",
+              "RelativeDocumentMoniker": "CookieCookbook\\FileStorage\\FileFormatExtensions.cs",
+              "ToolTip": "C:\\Users\\Jim\\Documents\\Dev\\Projects\\C#\\CookieCookbook\\CookieCookbook\\FileStorage\\FileFormatExtensions.cs",
+              "RelativeToolTip": "CookieCookbook\\FileStorage\\FileFormatExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T03:45:06.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileStorage.cs",
+              "DocumentMoniker": "C:\\Users\\Jim\\Documents\\Dev\\Projects\\C#\\CookieCookbook\\CookieCookbook\\FileStorage\\FileStorage.cs",
+              "RelativeDocumentMoniker": "CookieCookbook\\FileStorage\\FileStorage.cs",
+              "ToolTip": "C:\\Users\\Jim\\Documents\\Dev\\Projects\\C#\\CookieCookbook\\CookieCookbook\\FileStorage\\FileStorage.cs",
+              "RelativeToolTip": "CookieCookbook\\FileStorage\\FileStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T03:43:43.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IStringsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jim\\Documents\\Dev\\Projects\\C#\\CookieCookbook\\CookieCookbook\\DataAccess\\IStringsRepository.cs",
+              "RelativeDocumentMoniker": "CookieCookbook\\DataAccess\\IStringsRepository.cs",
+              "ToolTip": "C:\\Users\\Jim\\Documents\\Dev\\Projects\\C#\\CookieCookbook\\CookieCookbook\\DataAccess\\IStringsRepository.cs",
+              "RelativeToolTip": "CookieCookbook\\DataAccess\\IStringsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T03:40:36.706Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -28,19 +130,20 @@
               "RelativeDocumentMoniker": "CookieCookbook\\Recipes\\Ingredients\\Ingredient.cs",
               "ToolTip": "C:\\Users\\Jim\\Documents\\Dev\\Projects\\C#\\CookieCookbook\\CookieCookbook\\Recipes\\Ingredients\\Ingredient.cs",
               "RelativeToolTip": "CookieCookbook\\Recipes\\Ingredients\\Ingredient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T03:32:01.659Z"
+              "WhenOpened": "2024-11-19T03:32:01.659Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Jim\\Documents\\Dev\\Projects\\C#\\CookieCookbook\\CookieCookbook\\Program.cs",
               "RelativeDocumentMoniker": "CookieCookbook\\Program.cs",
               "ToolTip": "C:\\Users\\Jim\\Documents\\Dev\\Projects\\C#\\CookieCookbook\\CookieCookbook\\Program.cs",
               "RelativeToolTip": "CookieCookbook\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T03:24:55.226Z",
               "EditorCaption": ""

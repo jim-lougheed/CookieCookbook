@@ -1,10 +1,9 @@
-﻿namespace CookieCookbook.Recipes
+﻿namespace CookieCookbook.Recipes;
+
+public partial class Recipe
 {
-    public partial class Recipe
+    public abstract class Spice : Ingredient
     {
-        public abstract class Spice : Ingredient
-        {
-            public override string PreparationInstructions => $"Take half a teaspoon. " + base.PreparationInstructions;
-        }
+        public override string PreparationInstructions => $"Take half a teaspoon. " + base.PreparationInstructions;
     }
 }

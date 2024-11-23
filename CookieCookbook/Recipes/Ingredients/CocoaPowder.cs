@@ -1,11 +1,10 @@
-﻿namespace CookieCookbook.Recipes
+﻿namespace CookieCookbook.Recipes;
+
+public partial class Recipe
 {
-    public partial class Recipe
+    public class CocoaPowder : Ingredient
     {
-        public class CocoaPowder : Ingredient
-        {
-            public override int ID => 8;
-            public override string Name => "Cocoa powder";
-        }
+        public override int ID => 8;
+        public override string Name => "Cocoa powder";
     }
 }
